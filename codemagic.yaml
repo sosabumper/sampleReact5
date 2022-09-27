@@ -3,3 +3,6 @@ workflows:
     name: Hello world workflow
     scripts:
         - echo "Hello World!"
+workflows:
+  my-workflow:
+    instance_type: mac_pro
